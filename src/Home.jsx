@@ -7,10 +7,10 @@ import C_Logo from "./assets/C_Logo.png";
 import HTML_Logo from "./assets/HTML_Logo.png";
 import JS_Logo from "./assets/JavaScript_Logo.png";
 import JAVA_Logo from "./assets/Java_Logo.jpg";
-import RSTUDIO_Logo from "./assets/RStudio_Logo.png";
+import RSTUDIO_Logo from "./assets/RStudio_Logo.svg";
 import SCRATCH_Logo from "./assets/Scratch_Logo.png";
 import FIREBASE_Logo from "./assets/Firebase_Logo.png";
-import GITHUB_Logo from "./assets/github_Logo.png";
+import GITHUB_Logo from "./assets/github_Logo.svg";
 import CONSTRUCT_Logo from "./assets/Construct3_Logo.png";
 import REACT_Logo from "./assets/React_Logo.png";
 import ID_Flag from "./assets/Indonesia_Flag.png";
@@ -227,13 +227,13 @@ function Home(){
                             image={web2}
                             title={"Anonymous Letter"}
                             description={"A simple website built with ReactJS and firebase where you could post an anonymous letter or read a letter from someone. You could search a letter by recipient name. This website is heavily inspired by the infamous web called unsent project"}
-                            link={"https://oriontdev.github.io/pokemon-type/"}
+                            link={"https://oriontdev.github.io/anonymous-letter/#/"}
                         />
                         <ProjectCard
                             image={web3}
                             title={"To-do list"}
                             description={"A To-do list website built with ReactJS. With features such as switching between light and dark mode, deleting task, and also arranging them based on priority or schedule"}
-                            link={"https://oriontdev.github.io/pokemon-type/"}
+                            link={"https://oriontdev.github.io/todolist/#/"}
                         />
                     </div>
                 </div>
